@@ -7,6 +7,7 @@
 2. [Getting the User's Location - Apple](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html#//apple_ref/doc/uid/TP40009497-CH2-SW11)
   - If you're only going to read one thing, this is it
   - Read everything besides "Getting Location Events in the Background (iOS Only)" 
+3. [CLLocationManager Reference - Apple](https://developer.apple.com/reference/corelocation/cllocationmanager)
 
 #### Optional & Reference
 
